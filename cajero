@@ -1,0 +1,5 @@
+spring.data.mongodb.uri=mongodb://localHost:27017/cajero
+spring.application.name=cajero
+configuracion.texto=Configurando puerto de api cajero
+server.port=8101
+#eureka.client.service-url.defaultZone = http://eureka-server:9042/eureka
